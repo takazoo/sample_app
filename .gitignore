@@ -19,3 +19,6 @@
 # Ignore emacs cache
 /**/*~
 /**/#*#
+
+# Ignore Spring files.
+/spring/*.pid
